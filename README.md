@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manish5043" alt="manish5043" /></a> </p>
 
-- 🔭 I’m currently working on **E-commerce project**
+- 🔭 I’m currently working on **AI and its Intergration in Projects**
 
-- 🌱 I’m currently learning **React.js,js Backend**
+- 🌱 I’m currently learning **Nextjs, Typescript**
 
 - 📫 How to reach me **mahendrasoni5043@gmail.com**
 
